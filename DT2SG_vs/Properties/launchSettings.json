@@ -1,0 +1,8 @@
+{
+  "profiles": {
+    "DT2SG_vs": {
+      "commandName": "Project",
+      "commandLineArgs": " -r .\\demo\\source -m .\\source_metadata\\metadata_example.csv"
+    }
+  }
+}

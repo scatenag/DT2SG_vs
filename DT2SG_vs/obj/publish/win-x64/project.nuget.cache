@@ -1,0 +1,17 @@
+{
+  "version": 2,
+  "dgSpecHash": "4LlLQZeXZyMGv6WVJllvldg0X9I3HQpofw4EY0oeflwaDKTiunw/ZnDPVKUTvgb2o6nH4hSeBiIdGB6BXf4Tnw==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\guido\\Source\\Repos\\DT2SG_vs\\DT2SG_vs\\DT2SG_vs.fsproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\guido\\.nuget\\packages\\commandlineparser\\2.9.1\\commandlineparser.2.9.1.nupkg.sha512",
+    "C:\\Users\\guido\\.nuget\\packages\\fsharp.core\\6.0.6\\fsharp.core.6.0.6.nupkg.sha512",
+    "C:\\Users\\guido\\.nuget\\packages\\fsharp.data\\5.0.2\\fsharp.data.5.0.2.nupkg.sha512",
+    "C:\\Users\\guido\\.nuget\\packages\\libgit2sharp\\0.27.0-preview-0182\\libgit2sharp.0.27.0-preview-0182.nupkg.sha512",
+    "C:\\Users\\guido\\.nuget\\packages\\libgit2sharp.nativebinaries\\2.0.315-alpha.0.9\\libgit2sharp.nativebinaries.2.0.315-alpha.0.9.nupkg.sha512",
+    "C:\\Users\\guido\\.nuget\\packages\\microsoft.netcore.app.runtime.win-x64\\3.1.20\\microsoft.netcore.app.runtime.win-x64.3.1.20.nupkg.sha512",
+    "C:\\Users\\guido\\.nuget\\packages\\microsoft.windowsdesktop.app.runtime.win-x64\\3.1.20\\microsoft.windowsdesktop.app.runtime.win-x64.3.1.20.nupkg.sha512",
+    "C:\\Users\\guido\\.nuget\\packages\\microsoft.aspnetcore.app.runtime.win-x64\\3.1.20\\microsoft.aspnetcore.app.runtime.win-x64.3.1.20.nupkg.sha512"
+  ],
+  "logs": []
+}

@@ -1,0 +1,8 @@
+C:\Users\guido\Source\Repos\DT2SG_vs\DT2SG_Lib\bin\Release\netcoreapp3.1\DT2SG_Lib.deps.json
+C:\Users\guido\Source\Repos\DT2SG_vs\DT2SG_Lib\bin\Release\netcoreapp3.1\DT2SG_Lib.dll
+C:\Users\guido\Source\Repos\DT2SG_vs\DT2SG_Lib\bin\Release\netcoreapp3.1\DT2SG_Lib.pdb
+C:\Users\guido\Source\Repos\DT2SG_vs\DT2SG_Lib\obj\Release\netcoreapp3.1\DT2SG_Lib.fsproj.AssemblyReference.cache
+C:\Users\guido\Source\Repos\DT2SG_vs\DT2SG_Lib\obj\Release\netcoreapp3.1\DT2SG_Lib.AssemblyInfoInputs.cache
+C:\Users\guido\Source\Repos\DT2SG_vs\DT2SG_Lib\obj\Release\netcoreapp3.1\DT2SG_Lib.AssemblyInfo.fs
+C:\Users\guido\Source\Repos\DT2SG_vs\DT2SG_Lib\obj\Release\netcoreapp3.1\DT2SG_Lib.dll
+C:\Users\guido\Source\Repos\DT2SG_vs\DT2SG_Lib\obj\Release\netcoreapp3.1\DT2SG_Lib.pdb

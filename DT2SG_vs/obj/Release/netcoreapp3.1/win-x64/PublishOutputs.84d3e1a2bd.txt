@@ -1,0 +1,3 @@
+C:\Users\guido\Desktop\DT2SG-win64\DT2SG_vs.pdb
+C:\Users\guido\Desktop\DT2SG-win64\DT2SG_Lib.pdb
+C:\Users\guido\Desktop\DT2SG-win64\DT2SG_vs.exe
